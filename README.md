@@ -42,8 +42,9 @@ Visualização das Etapas
 Cada imagem resultante das etapas acima é exibida em uma única figura com 5 colunas, usando matplotlib.pyplot.
 
 A visualização permite comparar visualmente as transformações aplicadas em cada fase do processamento.
+
 Resultados obtidos
-Os resultados das imagens se encontram no arquivo word no repositorio
+Os resultados das imagens se encontram no arquivo README.docx no repositorio, la consta as imagens, e uma copia do README
  
 Tempo total gasto
 2 horas para realizar o que foi entregue
